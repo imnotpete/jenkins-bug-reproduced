@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # all paths are relative to passed directory, which should be the git project root
 
